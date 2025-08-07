@@ -3,7 +3,8 @@
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🎓 Currently pursuing **B.Tech in Computer Science and Engineering** at **VIT Bhopal University**
+- 🎓 B.Tech graduate in Computer Science and Engineering from VIT Bhopal University
+- 💻 Passionate developer exploring Java, Python, and web technologies through real-world projects.
 - 🛰️ **SDE Intern at NARL–ISRO**, working on systems that blend research and real-time applications
 - 💻 Passionate about **DSA**, **Java & Python Projects**, **Web Dev**, and **Cloud Technologies**
 - 🌱 Exploring **AI/ML**, **Backend Systems**, and enhancing my **problem-solving skills**
