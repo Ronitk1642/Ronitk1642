@@ -6,7 +6,6 @@
 - 🎓 B.Tech graduate in Computer Science and Engineering from VIT Bhopal University
 - 💻 Passionate developer exploring Java, Python, and web technologies through real-world projects.
 - 🛰️ **SDE Intern at NARL–ISRO**, working on systems that blend research and real-time applications
-- 💻 Passionate about **DSA**, **Java & Python Projects**, **Web Dev**, and **Cloud Technologies**
 - 🌱 Exploring **AI/ML**, **Backend Systems**, and enhancing my **problem-solving skills**
 - 🛠️ Always keen to build real-world applications that solve meaningful problems
 - 📫 Reach me at: **ronit1642@gmail.com**
@@ -17,7 +16,7 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ronit-kumar-7a7226193/)
 - 💡 [GeeksforGeeks](https://www.geeksforgeeks.org/user/ronitxhhs/)
-- 🔧 [GitHub](https://github.com/Ronit1642)
+- 🔧 [GitHub](https://github.com/Ronitk1642)
 
 ---
 
@@ -40,7 +39,7 @@
 
 ### 💎 Technical Skills
 
-- **Languages:** C, C++, Java, Python, HTML/CSS/JS, PHP, SQL
+- **Languages:** Java, Python, HTML/CSS, PHP, SQL
 - **Domains:** Web Development, DSA, Backend Development, ML (beginner), DBMS
 - **Tools & Platforms:** VS Code, Git, Firebase, Jupyter Notebook, MySQL, Linux
 
