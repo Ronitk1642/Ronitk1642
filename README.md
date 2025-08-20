@@ -57,8 +57,7 @@
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40"/> </a>
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
-  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="Django" width="40" height="40"/> 
-  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/archive/0/0a/20101018043056%21Python.svg" alt="Python3" width="40" height="40"/> 
+  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="Django" width="40" height="40"/>  
   </a>
 </p>
 
