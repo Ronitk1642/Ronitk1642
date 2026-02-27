@@ -4,9 +4,9 @@
 <img align="right" alt="coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 🚀 Computer Science Graduate from <b>VIT Bhopal University</b>  
-🛰️ SDE Intern at <b>NARL–ISRO</b> working on GNU Radio-based automated data systems  
+🛰️ SDE Intern at <b>NARL–ISRO</b> worked on GNU Radio-based automated data systems  
 💡 Strong foundation in Data Structures, Algorithms & Backend Development  
-🎯 Target: Product-Based Company | Backend / Software Engineering Roles  
+🎯 Target: Product-Based Company | Backend / Frontend /Software Engineering Roles  
 
 ---
 
