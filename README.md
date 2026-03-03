@@ -72,7 +72,9 @@
 <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ronit1642&show_icons=true&theme=tokyonight" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ronit1642&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit1642&layout=compact&theme=tokyonight" /> </p> --- ### ⚡ Fun Fact I love simplifying complex concepts while teaching, and I believe coding is more about **consistency and logic than just syntax**. ⭐ *Thanks for visiting my profile! Let's connect and build something amazing together!* 🚀
 
 ---
-### ⚡ Engineering Philosophy
+### 
+
+⚡ Engineering Philosophy
 
 > “Great software is built with clarity of thought, strong fundamentals, and relentless consistency.”
 
